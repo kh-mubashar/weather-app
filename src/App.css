@@ -3,7 +3,7 @@
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 html {
-  background-color: darkseagreen;
+  background-color: rgb(144, 143, 188);
 }
 .app-name {
   font-size: 2.3rem;
@@ -16,8 +16,7 @@ html {
   justify-content: start;
   width: 500px;
   min-height: 440px;
-  /* background-color: #ffffff; */
-  background-color: rgba(226, 226, 226, 0.2);
+  background-color: #ecf0f1;
   text-align: center;
   margin: 128px auto;
   border-radius: 10px;
